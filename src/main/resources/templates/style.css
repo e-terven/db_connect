@@ -1,0 +1,19 @@
+.heading {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Rubik' 'Arial' sans-serif;
+    color: coral;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.danger {
+  color: red;
+  border: 2px solid red;
+  font-family: monospace;
+}
+
+.blue {
+  color: skyblue;
+}
